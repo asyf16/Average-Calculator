@@ -1,0 +1,138 @@
+ELA1105,M,5,English 10
+ELA2105,M,5,English 20
+ELA3105,M,5,English 30
+LDC3169,B,3,English 35
+FSL1099,A,5,French 10
+FSL2099,A,5,French 20
+FSL3099,A,5,French 30
+MAT1791,A,5,Math 10
+MAT2791,A,5,Math 20
+MAT3791,A,5,Math 30
+MAT3211,A,5,Math 31
+SCN1270,A,5,Science 10
+SCN2796,A,5,Chemistry 20
+SCN3796,A,5,Chemistry 30
+LDC3241,B,3,Chemistry 35
+SCN2231,A,5,Biology 20
+SCN3230,A,5,Biology 30
+LDC3232,B,3,Biology 35
+LDC3262,B,3,Physics 35
+SCN2797,A,5,Physic 20
+SCN3797,A,5,Physics 30
+SST1771,A,5,Social 10
+SST2771,A,5,Social 20
+SST3771,A,5,Social 30
+LDC3152,B,3,Theory of Knowledge (IB) 35
+LDC2152,B,3,Theory of Knowledge (IB) 25
+LDC2147 ,B,3,Extended Essay (IB) 25
+LDC3609 ,B,3,Extended Essay 35
+FNA1400,B,"3,5",Art 10
+FNA2400,B,"3,5",Art 20
+FNA3400,B,"3,5",Art 30
+PED0770,B,3,CALM
+LDC1209,B,3,Speech 15
+LDC2244,B,3,Speech 25
+LDC3244,B,3,Speech 35
+FNA1425,B,"3,5",Intrumental Music 10
+FNA2425,B,"3,5",Intrumental Music 20
+FNA3425,B,"3,5",Intrumental Music 30
+FNA3424,B,"3,5",Gen Music 30
+FNA2424,B,"3,5",Gen Music 20
+FNA1424,B,"3,5",Gen Music 10
+PED1445,B,"3,5",PE 10
+PED2445,B,"3,5",PE 20
+PED3445,B,"3,5",PE 30
+FNA1410,B,"3,5",Drama 10
+FNA2410,B,"3,5",Drama 20
+FNA3410,B,"3,5",Drama 30
+NET1010,B,1,Digital Technology 1
+NET1910,B,1,NET Project A
+NET2010,B,1,Digital Technology 2
+NET2020,B,1,Workstation Technology & Operations
+NET2030,B,1,Network Structures
+NET2040,B,1,Network Media & Devices
+NET2050,B,1,Open System Interconnection
+NET2060,B,1,Network Protocols
+NET2070,B,1,Local Area Networks
+NET2080,B,1,Laptops & Peripherals
+NET2110,B,1,Telecommunications 1
+NET2910,B,1,NET Project B
+NET2920,B,1,NET Project C
+NET2950,B,1,NET Intermediate Practicum
+NET3010,B,1,Digital Technology 3
+NET3020,B,1,Digital Applications
+NET3030,B,1,Microprocessors
+NET3040,B,1,Microprocessor Interface
+NET3050,B,1,Network Operating Systems
+NET3060,B,1,Wide Area Networks
+NET3070,B,1,Routing Fundamentals
+NET3080,B,1,Internet Processes
+NET3090,B,1,Network Management
+NET3100,B,1,"Network Media & Devices, Security"
+NET3110,B,1,Telecommunications 2
+NET3910,B,1,NET Project D
+NET3920,B,1,NET Project E
+NET3950,B,1,NET Advanced Practicum
+CSE1010,B,1,Computer Science 1
+CSE1110 ,B,1,Structured Programming 1
+CSE1120,B,1,Structured Programming 2
+CSE1210,B,1,Client-side Scripting 1
+CSE1220,B,1,Client-side Scripting 2
+CSE1240,B,1,Robotics Programming 1
+CSE1910,B,1,CSE Project A
+CSE2010,B,1,Computer Science 2
+CSE2110,B,1,Procedural Programming 1
+CSE2120,B,1,Data Structures 1
+CSE2130,B,1,Files & File Structures 1
+CSE2140,B,1,Second Language Programming 1
+CSE2210,B,1,Client-side Scripting 3
+CSE2240,B,1,Robotics Programming 2
+CSE2910,B,1,CSE Project B
+CSE2920,B,1,CSE Project C
+CSE2950,B,1,CSE Intermediate Practicum
+CSE3010,B,1,Computer Science 3
+CSE3020,B,1,Computer Science 4
+CSE3110,B,1,Iterative Algorithm 1
+CSE3120,B,1,Object-oriented Programming 1
+CSE3130,B,1,Object-oriented Programming 2
+CSE3140,B,1,Second Language Programming 2 
+CSE3210,B,1,Server-side Scripting 1
+CSE3240,B,1,Robotics Programming 3
+CSE3310,B,1,Recursive Algorithms 1
+CSE3320,B,1,Dynamic Data Structures 1
+CSE3330,B,1,Dynamic Data Structures 2
+CSE3340,B,1,Dynamic Data Structures 3
+CSE3910,B,1,CSE Project D
+CSE3920,B,1,CSE Project E
+CSE3950,B,1,CSE Advanced Practicum
+HSS1010,B,1,Health Services Foundations
+HSS1020,B,1,Nutrition & Wellness
+HSS1030,B,1,Communication Skills for Health Professionals
+HSS1040,B,1,Developing Maturity & Independence
+HSS1050,B,1,Introduction to Mentorship
+HSS1080,B,1,Leadership Fundamentals 1
+HSS1090,B,1,Speaking & Presenting
+HSS1100,B,1,Nature & Wellness
+HSS1910,B,1,HSS Project A
+HSS2020,B,1,Nurturing Children
+HSS2030,B,1,Perspectives on Interpersonal Relationships
+HSS2040,B,1,Family Foundations
+HSS2050,B,1,Becoming a Mentor
+HSS2080,B,1,Leadership Fundamentals 2
+HSS2910,B,1,HSS Project B
+HSS2920,B,1,HSS Project C
+HSS2950,B,1,HSS Intermediate Practicum
+HSS3010,B,1,Professional Standards & Ethics
+HSS3020,B,1,Mental Health & Wellness
+HSS3050,B,1,Becoming a Mentee
+HSS3060,B,1,Extending the Mentoring Relationship
+HSS3070,B,1,Peer Mentoring
+HSS3080,B,1,Leadership Fundamentals 3
+HSS3090,B,1,Governance & Leadership
+HSS3910,B,1,HSS Project D
+HSS3920,B,1,HSS Project E
+HSS3950,B,1,HSS Advanced Practicum
+LDC1509,B,"3,5","Leadership, Character 15"
+LDC2509,B,"3,5","Leadership, Character 25"
+LDC3509,B,"3,5","Leadership, Character 35"
+SSN3156,B,3,International Politics
