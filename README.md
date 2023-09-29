@@ -1,5 +1,9 @@
 # Student Average Calculator
 ## A program created in Python using CSV libraries and TKinter for Old Scona Academic's administration to calculate each student's best academic average from a central spreadsheet efficiently. 
+#### Learned how to use CSV libraries to read and write data in Excel spreadsheets
+#### Learned how to gather requirements from a client and modify products based on client feedback
+#### Learned how to use the Tkinter library to create graphical user interfaces in Python
+***
 #### There are five different ways a student's average can be calculated. Their Language Arts grade must be used in addition to either:
 * Four other core subjects
 * Three core subjects and one 5-credit options course
