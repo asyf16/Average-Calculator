@@ -15,11 +15,17 @@
 #### The program contains error checks that will notify the user if a student is missing mandatory courses or if a course code is unrecognized. The user can upload new course codes if needed. 
 ***
 #### *Screenshots of the program's interface, created with Tkinter, are shown below:*
-![Main Screen](https://github.com/asyf16/Average-Calculator/blob/0fbcfc068c5641b42fb8c844ebd44558f94c134d/Main.png)
-![Completed Screen](https://github.com/asyf16/Average-Calculator/blob/0fbcfc068c5641b42fb8c844ebd44558f94c134d/Complete.png)
-![Student Search](https://github.com/asyf16/Average-Calculator/blob/5f7c09fe564da75c49ffea5999d42e277d95d667/Search.png)
+
+![Main](https://github.com/asyf16/Average-Calculator/assets/144833617/cfc24dfc-770e-466c-acc8-97ef7ef2c91f)
+
+![Complete](https://github.com/asyf16/Average-Calculator/assets/144833617/25aa1b8e-f785-4066-8a22-7315e44ea9cf)
+
+![Search](https://github.com/asyf16/Average-Calculator/assets/144833617/860d3990-672e-496f-ba1c-eb685a264612)
+
 ***
 #### *Samples of the input and output spreadsheets are shown below:*
-![Input](https://github.com/asyf16/Average-Calculator/blob/0fbcfc068c5641b42fb8c844ebd44558f94c134d/Input.png)
-![Output](https://github.com/asyf16/Average-Calculator/blob/5f7c09fe564da75c49ffea5999d42e277d95d667/Result.png)
+
+![Input](https://github.com/asyf16/Average-Calculator/assets/144833617/26d78f1f-6b6a-447e-b695-d7d2bf6978ba)
+
+![Result](https://github.com/asyf16/Average-Calculator/assets/144833617/f8d24bb0-e2ec-48c7-ac66-be4755f8bb35)
 
